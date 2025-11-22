@@ -1,13 +1,7 @@
-<html>
-<head>
-  <style>
-    body {
-  width: 100%;
-  height: 300px;
-  background-image: url('mèo.png');
-  background-size: cover;
-  background-position: center;">
- }
-  </style>
-</head>
+<html lang="vi">
+<body>
+    <img src="html.png" 
+         alt="Ảnh rừng và nhân vật hoạt hình"
+         style="width: 600px; border-radius: 10px;">
+</body>
 </html>
