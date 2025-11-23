@@ -23,7 +23,7 @@
     </style>
     <div id="banner">
       <div class="box-left">
-       <h1 style="font-size: 10px; color: white;">BÁO CÁO TIN HỌC</h1>
+       <h1 style="text-decorating: none; color: white; padding: 0 10px;">BÁO CÁO TIN HỌC</h1>
       </div>
     </div>
   </header>
