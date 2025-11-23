@@ -17,9 +17,19 @@
   <header>
     <div id="banner">
       <div class="box-left">
-        <h2>
+        <h1>
             <span>BÁO CÁO TIN HỌC</span>
-        </h2>
+          <style>
+    title {
+        font-size: 24px;
+    }
+</style>
+        </h1>
+        <hr>
+        <hr>
+        <hr>
+        <hr>
+        <hr>
          <div style="background-color: #FFFFFF; padding: 10px;">
         <a href="trangchu" style="text-decorating: none; color: navy blue; padding: 0 10px;">Trang chủ</a>
         <a href="thanhvien" style="text-decorating: none; color: navy blue; padding: 0 10px;">Thành viên</a>
