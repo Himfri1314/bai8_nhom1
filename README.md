@@ -28,7 +28,7 @@
     <style>
       body {
         width: 100%;
-        backgroud-image :url('nền.html.jpg');
+        backgroud-image :url('nền.jpg');
         height: 463px;
         margin-top: 40px;
         display:flex;
