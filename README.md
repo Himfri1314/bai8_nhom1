@@ -7,7 +7,7 @@
   </head>
     <style>
       body {
-        background-image: url('nền.jpg');
+        background-image: url('cute.jpg');
             background-size: cover;        /* Phủ toàn màn hình */
             background-position: center;   /* Canh giữa ảnh */
             background-repeat: no-repeat;  /* Không lặp lại */
@@ -17,14 +17,7 @@
   <header>
     <div id="banner">
       <div class="box-left">
-        <h1>
-            <span>BÁO CÁO TIN HỌC</span>
-          <style>
-    title {
-        font-size: 24px;
-    }
-</style>
-        </h1>
+       <h1 style="font-size: 200px;">BÁO CÁO TIN HỌC</h1>
         <hr>
         <hr>
         <hr>
