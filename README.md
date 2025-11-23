@@ -1,64 +1,28 @@
-<html lang="vi">
-<div class="meta"><h4>Iced Báo cáo tin học</h4><div class="price">Rs.149</div><a class="order" href="#">Order</a></div>
-</div>
-<div class="card">
-<img src="/mnt/data/6ff9841e-fbc5-4a08-803e-1d6d03647002.png" alt="coffee4">
-<div class="meta"><h4>Filter Coffee</h4><div class="price">Rs.59</div><a class="order" href="#">Order</a></div>
-</div>
-</div>
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+  	<meta charset = "utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  	<title>Wed báo cáo tin </title>
 
+    <!--font awesome cdn link -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css">
 
-<div class="banner">
-<div class="col"><h3>Check out our best coffee beans</h3><p>Explore our selection of freshly roasted beans from artisan roasters.</p></div>
-<div class="col" style="text-align:right"><a class="btn" href="#">Explore our products</a></div>
-</div>
+    <!-- custom css file link -->
+    <link rel="stylesheet" href="css/style.css">
+  </head>
+  <body>
 
-
-<h2 style="margin-top:26px">OUR SPECIAL DESSERT</h2>
-<div class="grid" style="margin-top:12px">
-<div class="card">
-<img src="/mnt/data/6ff9841e-fbc5-4a08-803e-1d6d03647002.png" alt="dessert1">
-<div class="meta"><h4>Gulab Jamun</h4><div class="price">Rs.199</div><a class="order" href="#">Order</a></div>
-</div>
-<div class="card">
-<img src="/mnt/data/6ff9841e-fbc5-4a08-803e-1d6d03647002.png" alt="dessert2">
-<div class="meta"><h4>Chocolate Tiramisu</h4><div class="price">Rs.250</div><a class="order" href="#">Order</a></div>
-</div>
-<div class="card">
-<img src="/mnt/data/6ff9841e-fbc5-4a08-803e-1d6d03647002.png" alt="dessert3">
-<div class="meta"><h4>Churros</h4><div class="price">Rs.170</div><a class="order" href="#">Order</a></div>
-</div>
-<div class="card">
-<img src="/mnt/data/6ff9841e-fbc5-4a08-803e-1d6d03647002.png" alt="dessert4">
-<div class="meta"><h4>Australian Lamingtons</h4><div class="price">Rs.280</div><a class="order" href="#">Order</a></div>
-</div>
-</div>
-
-
-<div class="testimonials">
-<div class="test"><strong>Jane Adams</strong><p style="font-size:13px;color:var(--muted)">I dropped by to have a cappuccino and honestly, often the coffee here will not have high expectations — but it was perfect.</p></div>
-<div class="test"><strong>Sam Williams</strong><p style="font-size:13px;color:var(--muted)">I've been ordering beans from you for ten years, the quality is consistently high!</p></div>
-<div class="test"><strong>Angela Gonzales</strong><p style="font-size:13px;color:var(--muted)">Great customer service, your beans give way to the best cups of coffee.</p></div>
-</div>
-
-
-<div class="subscribe" style="margin-top:18px">
-<div>Join in and get 15% Off!</div>
-<div style="display:flex;gap:12px;align-items:center;width:60%"><input placeholder="Email address" aria-label="email"><button class="btn">Subscribe</button></div>
-</div>
-
-
-</section>
-
-
-<footer>
-<div class="container footer-inner">
-<div style="color:var(--accent);font-weight:700">Coffee</div>
-<div style="color:var(--muted)">© 2025 Coffee. All rights reserved.</div>
-</div>
-</footer>
-
-
-</div>
-</body>
+  <!-- header section starts -->
+  <header>
+    <a href="#" class="logo">Báo cáo tin học<span>.</span></a>
+    <nav class="navbar">
+      <a href="#home">Trang chủ</a>
+      <a href="#about">Thành viên</a>
+      <a href="#products">Tài liệu</a>
+      <a href="#review">Form</a>
+    </nav>
+    
+  </header>
 </html>
