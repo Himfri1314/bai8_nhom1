@@ -15,11 +15,11 @@
     </style>
   <body>
   <header>
-      <div style="background-color: #FFFFFF; padding: 20px;">
-        <a href="trangchu" style="text-decorating: none; color: navy blue; padding: 0 20px;">Trang chủ</a>
-        <a href="thanhvien" style="text-decorating: none; color: navy blue; padding: 0 20px;">Thành viên</a>
-        <a href="tailieu" style="text-decorating: none; color: navy blue; padding: 0 20px;">Tài liệu</a>
-        <a href="lienhe" style="text-decorating: none; color: navy blue; padding: 0 20px;">Liên hệ</a>
+      <div style="background-color: #FFFFFF; padding: 10px;">
+        <a href="trangchu" style="text-decorating: none; color: navy blue; padding: 0 70px;">Trang chủ</a>
+        <a href="thanhvien" style="text-decorating: none; color: navy blue; padding: 0 70px;">Thành viên</a>
+        <a href="tailieu" style="text-decorating: none; color: navy blue; padding: 0 70px;">Tài liệu</a>
+        <a href="lienhe" style="text-decorating: none; color: navy blue; padding: 0 70px;">Liên hệ</a>
       </div>
     <div id="banner">
       <div class="box-left">
