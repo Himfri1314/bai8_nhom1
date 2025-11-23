@@ -15,8 +15,6 @@
     </style>
   <body>
   <header>
-    <a href="#" class="logo" alt="">
-      <img src="avt.jpg">
       <div style="background-color: #FFFFFF; padding: 20px;">
         <a href="trangchu" style="text-decorating: none; color: navy blue; padding: 0 20px;">Trang chủ</a>
         <a href="thanhvien" style="text-decorating: none; color: navy blue; padding: 0 20px;">Thành viên</a>
