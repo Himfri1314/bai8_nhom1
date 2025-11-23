@@ -1,11 +1,19 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="vi">
   <head>
-  	<meta charset = "utf-8">
+  	<meta charset = "UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
   	<title>Wed báo cáo tin </title>
   </head>
+    <style>
+      body {
+        background-image: url('nền.jpg');
+            background-size: cover;        /* Phủ toàn màn hình */
+            background-position: center;   /* Canh giữa ảnh */
+            background-repeat: no-repeat;  /* Không lặp lại */
+      }
+    </style>
   <body>
   <header>
     <a href="#" class="logo">Báo cáo tin học<span>.</span></a>
@@ -25,17 +33,6 @@
         <p>Được thực hiện bởi nhóm 1</p>
       </div>
     </div>
-    <style>
-      body {
-        width: 100%;
-        backgroud-image :url('nền.jpg');
-        height: 463px;
-        margin-top: 40px;
-        display:flex;
-        padding: 0px 133px;
-        position: relative;
-      }
-    </style>
   </header>
 </body>
 </html>
