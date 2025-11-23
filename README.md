@@ -7,7 +7,7 @@
   </head>
     <style>
       body {
-        background-image: url('cute.jpg');
+        background-image: url('nền.jpg');
             background-size: cover;        /* Phủ toàn màn hình */
             background-position: center;   /* Canh giữa ảnh */
             background-repeat: no-repeat;  /* Không lặp lại */
@@ -15,19 +15,18 @@
     </style>
   <body>
   <header>
-    <a href="#" class="logo">Báo cáo tin học<span>.</span></a>
-    <nav class="navbar">
-      <a href="#home">Trang chủ</a>
-      <a href="#about">Thành viên</a>
-      <a href="#products">Tài liệu</a>
-      <a href="#review">Form</a>
-    </nav>
+    <a href="#" class="logo" alt="">
+      <img src="avt.jpg">
+      <div style="background-color: #FFFFFF; padding: 20px;">
+        <a href="trangchu" style="text-decorating: none; color: navy blue; padding: 0 20px;">Trang chủ</a>
+        <a href="thanhvien" style="text-decorating: none; color: navy blue; padding: 0 20px;">Thành viên</a>
+        <a href="tailieu" style="text-decorating: none; color: navy blue; padding: 0 20px;">Tài liệu</a>
+        <a href="lienhe" style="text-decorating: none; color: navy blue; padding: 0 20px;">Liên hệ</a>
+      </div>
     <div id="banner">
       <div class="box-left">
         <h2>
-            <span>BÁO CÁO</span>
-            <br>
-            <span>TIN HỌC</span>
+            <span>BÁO CÁO TIN HỌC</span>
         </h2>
         <p>Được thực hiện bởi nhóm 1</p>
       </div>
